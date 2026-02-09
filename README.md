@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋 
+
+I'd like to test this out, 
+I look forward to work on personal projects.
 
 <!--
 **CCKida/CCKida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
